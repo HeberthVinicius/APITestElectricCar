@@ -5,7 +5,7 @@
     "battery": "300 kWh",
     "power": "200 hp",
     "recharge": "40 min",
-    "urlPhoto": ""
+    "urlPhoto": "https://raw.githubusercontent.com/HeberthVinicius/APITestElectricCar/main/img/eletric_car.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "battery": "230 kWh",
     "power": "100 hp",
     "recharge": "20 min",
-    "urlPhoto": ""
+    "urlPhoto": "https://raw.githubusercontent.com/HeberthVinicius/APITestElectricCar/main/img/eletric_car.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "battery": "430 kWh",
     "power": "400 hp",
     "recharge": "60 min",
-    "urlPhoto": ""
+    "urlPhoto": "https://raw.githubusercontent.com/HeberthVinicius/APITestElectricCar/main/img/eletric_car.png"
   },
   {
     "id": 4,
@@ -29,6 +29,6 @@
     "battery": "130 kWh",
     "power": "200 hp",
     "recharge": "50 min",
-    "urlPhoto": ""
+    "urlPhoto": "https://raw.githubusercontent.com/HeberthVinicius/APITestElectricCar/main/img/eletric_car.png"
   }
 ]
